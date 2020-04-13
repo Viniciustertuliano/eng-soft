@@ -8,4 +8,4 @@ Repositorio para realização dos artefatos de engenharia de software
 - [ ] - 3  Regras de Comunicação
 - [ ] - 4  Glossário
 - [ ] - 5  Referências
-- [ ] - 6  Lista de Necessidades 
+- [X] - 6  Lista de Necessidades 
