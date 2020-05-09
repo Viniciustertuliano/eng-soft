@@ -11,5 +11,5 @@ Repositorio para realização dos artefatos de engenharia de software
 - [ ] - 7   Declaração do Problema
 - [ ] - 8   Análise das Causas Raízes
 - [ ] - 9   Usuários e Outros Stakeholders
-- [ ] - 10  Fronteira Sistêmica
-- [ ] - 11  Lista de Restrições
+- [X] - 10  Fronteira Sistêmica
+- [X] - 11  Lista de Restrições
