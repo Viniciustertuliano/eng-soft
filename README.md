@@ -13,3 +13,5 @@ Repositorio para realização dos artefatos de engenharia de software
 - [X] - 9   Usuários e Outros Stakeholders
 - [X] - 10  Fronteira Sistêmica
 - [X] - 11  Lista de Restrições
+- [X] - 12 - Lista de Características - (Descrição de cada Característica)
+- [X] - 13 - Lista de Características - (Priorizada X Esforço X Risco X Baseline)
