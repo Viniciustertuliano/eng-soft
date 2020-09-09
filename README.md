@@ -15,3 +15,4 @@ Repositorio para realização dos artefatos de engenharia de software
 - [X] - 11  Lista de Restrições
 - [X] - 12 - Lista de Características - (Descrição de cada Característica)
 - [X] - 13 - Lista de Características - (Priorizada X Esforço X Risco X Baseline)
+- [X] - 29 - Diagrama de Casos de Uso do Subsistema
