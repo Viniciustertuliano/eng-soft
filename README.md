@@ -16,6 +16,7 @@ Repositorio para realização dos artefatos de engenharia de software
 - [X] - 12 - Lista de Características - (Descrição de cada Característica)
 - [X] - 13 - Lista de Características - (Priorizada X Esforço X Risco X Baseline)
 - [X] - 14 - Matriz de Rastreabilidade (Necessidades x Características)
-- [ ] - 15 - Arquitetura de Negócio para cada Cenário
+- [X] - 15 - Arquitetura de Negócio para cada Cenário
 - [ ] - 16 - DFD Essencial para cada Capacidade
 - [ ] - 17 - Análise dos Eventos para cada Cenário
+- [X] - 29 - Diagrama de Casos de Uso do Subsistema
