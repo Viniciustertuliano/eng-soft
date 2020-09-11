@@ -6,7 +6,7 @@ Repositorio para realização dos artefatos de engenharia de software
 |   Nome                                                                    |  Versão 01               | Versão 02                |
 | :-----------------------------------------------------------------------: | :----------------------: | :----------------------: |
 | 1 - Declaração do Escopo                                                  | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
-| 2 - Integrantes do Projeto                                                | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
+| 2 - Integrantes do Projeto                                                | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> |
 | 3 - Regras de Comunicação                                                 | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
 | 4 - Glossário                                                             | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
 | 5 - Referências                                                           | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> |
